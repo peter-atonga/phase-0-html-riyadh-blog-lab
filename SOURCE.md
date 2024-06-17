@@ -47,8 +47,8 @@ IMAGE 3 FILE
 `camels-in-truck.jpg`
 
 IMAGE 3 ALT TEXT
-
-`The roads of Riyadh`
+roads
+`The  of Riyadh`
 
 SMALLER SUB HEAD
 
@@ -56,8 +56,8 @@ SMALLER SUB HEAD
 
 LINK 1
 
-`Lonely Planet`
-`http://www.lonelyplanet.com/saudi-arabia/riyadh`
+`Lonely Plawwwnet`
+`http://.lonelyplanet.com/saudi-arabia/riyadh`
 
 LINK 2
 
